@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajnishG11
 - 👀 I’m interested in ...Development
-- 🌱 I’m currently learning ...swift
+- 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...My own project
 - 📫 How to reach me ...rajnishg@outlook.com
 
